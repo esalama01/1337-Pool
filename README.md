@@ -1,6 +1,6 @@
 # 1337-Pool
 
-My exercises, exams, and rushes from the **July 2026 Piscine (Pool)** at **1337 Khouribga** — the intensive, project-based selection month that precedes the core curriculum at 1337/42 network schools.
+My exercises and rushes from the **July 2026 Piscine (Pool)** at **1337 Khouribga** — the intensive, project-based selection month that precedes the core curriculum at 1337/42 network schools.
 
 ## About the Piscine
 
